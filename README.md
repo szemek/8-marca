@@ -8,7 +8,9 @@ Jak odczytać życzenia?
 
 Napisz program/skrypt, który przestawi odpowiednio piksele znajdujące się na "zaszyfrowanym" obrazku.
 
-Obrazek zawiera piksele w następującej kolejności (w kształcie spirali):
+Piksele w zaszyfrowanym obrazku są uporządkowane w kształcie spirali.
+
+Przykład: 4 piksele x 4 piksele
 
 ![](https://raw.github.com/szemek/8-marca/master/before.jpg)
 
