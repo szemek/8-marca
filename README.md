@@ -1,8 +1,9 @@
 Dziewczyno! Kobieto!
 
-Jeśli dzisiaj jest 8-ego marca, to mam dla Ciebie życzenia, które ukryłem na poniższym obrazku:
+Jeśli dzisiaj jest 8-ego marca, to mam dla Ciebie życzenia, które ukryłem na poniższym obrazku
+(kliknij na obrazek, aby pobrać)
 
-[ *Tutaj pojawi się obrazek 8-ego marca* ]
+![](https://github.com/szemek/8-marca/raw/master/encoded.bmp)
 
 Jak odczytać życzenia?
 
@@ -21,3 +22,13 @@ Aby odszyfrować -- ustaw piksele następująco:
 Miłego rozszyfrowywania życzeń :smile:
 
 Przemek
+
+
+--
+PS.
+Przykłady języków i bibliotek (w których testowałem zadanie):  
+Ruby + RMagick  
+Python + Python Imaging Library  
+JavaScript  
+
+Traktuj to tylko jako wskazówkę w czym możesz napisać swój program/skrypt.
